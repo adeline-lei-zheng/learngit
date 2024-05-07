@@ -3,4 +3,6 @@ Git is free software.
 
 This is feature1. 
 
+This is for stash. 
+
 This is issue01. 
